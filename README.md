@@ -1,3 +1,3 @@
 # Data-Scrapper
-Used python to scrap the headers of Reddit site and separate link in CSV file. 
-Various python used to give different data outputs
+Used python to scrap the headers of Reddit site and grab the JSON data to be formated to seperate the link and header.
+If you see anything that can be done better, feel free to comment thank you.
